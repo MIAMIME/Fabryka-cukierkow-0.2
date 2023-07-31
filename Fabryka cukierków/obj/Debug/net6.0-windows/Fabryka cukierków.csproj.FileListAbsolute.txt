@@ -1,0 +1,27 @@
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\Fabryka cukierków.exe
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\Fabryka cukierków.deps.json
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\Fabryka cukierków.runtimeconfig.json
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\Fabryka cukierków.dll
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\Fabryka cukierków.pdb
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.csproj.AssemblyReference.cache
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka_cukierków.Properties.Resources.resources
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.csproj.GenerateResource.cache
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.GeneratedMSBuildEditorConfig.editorconfig
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.AssemblyInfoInputs.cache
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.AssemblyInfo.cs
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.csproj.CoreCompileInputs.cache
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.dll
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\refint\Fabryka cukierków.dll
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.pdb
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka cukierków.genruntimeconfig.cache
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\ref\Fabryka cukierków.dll
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\Endgamesuprice.wav
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\GO.wav
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\move.wav
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\NK.wav
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\PK.wav
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\select.wav
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka_cukierków.FabrykaC.resources
+B:\Fabryka cukierków\Fabryka cukierków\bin\Debug\net6.0-windows\pl-PL\Fabryka cukierków.resources.dll
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\Fabryka_cukierków.FabrykaC.pl-PL.resources
+B:\Fabryka cukierków\Fabryka cukierków\obj\Debug\net6.0-windows\pl-PL\Fabryka cukierków.resources.dll
